@@ -94,6 +94,10 @@ nav a {
     display: flex; 
     padding: 40px; 
   }
+  #resume {
+    font-size: 30px; 
+    color: gray;  
+  }
   .cards {
     display: flex; 
     background-color: #e9ecef; 
