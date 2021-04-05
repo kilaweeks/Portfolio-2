@@ -6,12 +6,12 @@ body {
 
 .n-bar {
     position: fixed; /* Set the navbar to fixed position */
-    width: 84%; 
+    width: 78%; 
     display: flex;
     justify-content: center;
     font-size: 1.5em;
     background-color: #e9ecef;
-    margin-left: 8%; 
+    margin-left: 12%; 
 }
 
 nav a {
